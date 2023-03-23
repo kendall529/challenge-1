@@ -46,3 +46,11 @@ Logical element flow in HTML
 Alt attributes on every image
 Sequential order of headings
 Descriptive title
+
+## Link
+
+
+
+## Screenshot
+
+[![Screenshot of the final look of the assignment](/assets/images/screenshot.png 'Screenshot')]()
